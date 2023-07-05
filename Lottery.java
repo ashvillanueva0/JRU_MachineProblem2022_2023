@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class Lottery {
 
 	public static void main(String[] args) {
-		//
+		
 		
 		/*int winningNumbers []= new int [6];
 		for ( i = 0; i < 6; i++) {
